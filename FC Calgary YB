@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>FC Calgary YB로 오세요!!</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+  <div class="container">
+    <div class="nav">
+      <h2>절차</h2>
+      <ul>
+        <li>메일을 켜주세요</li>
+        <li>이름과 나이르 적어주세요</li>
+        <li>유학생인지, 워홀인지, 학생인지 적어주세요</li>
+        <li>메일을 보내주세요</li>
+      </ul>
+    </div>
+    <div class="main">
+      <h1>FC Calgary YB로 오세요!!</h1>
+      <h3>저희는 1995~2000년생으로 축구팀을 구성중입니다. 저희는 현재 탄탄한 수비수와, 플레이를 안정화시켜줄 미드필더, 상황을 리드할 공격수를 모집하고있습니다. 생각있으신 캘거리 거주자분들께선 jerichoandro@gmail.com으로 메일 보내주시면 감사하겠습니다!.</h3>
+      <p></p>
+      
+    </div>
+  </div>
+</body>
+</html>
